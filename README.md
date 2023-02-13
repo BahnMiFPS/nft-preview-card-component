@@ -31,10 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [View Solution](https://github.com/BahnMiFPS/nft-preview-card-component)
+- Live Site URL: [View Demo](https://unrivaled-alpaca-58d243.netlify.app/)
 
 ### Built with
 
